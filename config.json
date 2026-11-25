@@ -1,0 +1,8 @@
+{
+  "api_url": "https://YOUR-DOMAIN.example/api/username-availability",
+  "method": "GET",
+  "username_param": "username",
+  "available_field": "available",
+  "delay_seconds": 1.5,
+  "timeout_seconds": 10
+}
